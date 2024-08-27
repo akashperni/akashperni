@@ -26,7 +26,8 @@ const myDetails = {
 
 
 <!-- Tech Stack -->
-## 💻 Tech Stack
+
+### 💻 Tech Stack
 
 #### Languages, Libraries, Frameworks and Tools
 
