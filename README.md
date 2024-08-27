@@ -1,6 +1,8 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <h1 align="center">Hi 👋, I'm Akash</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Data+Scientist;Machine+Learning+Enthusiast;Data+Analyst;Software+Engineering+Graduate+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Data+Scientist;Machine+Learning+Enthusiast;Data+Analyst;Software+Engineering+Graduating+Student)
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a16f98206c5cc417104dec4a81199f79ac7066b80cf01fbfc2cd2fae44843f59/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 
