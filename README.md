@@ -18,7 +18,7 @@ const myDetails = {
 };
 
 ```
-
+<br><br>
 - 🌱 I’m currently learning **ETL and Data Pipelines with Shell, Airflow and Kafka**
 - 💬 Ask me about **data**
 - 📫 How to reach me **akashpernivc@gmail.com**
@@ -26,8 +26,8 @@ const myDetails = {
 
 
 <!-- Tech Stack -->
-
-### 💻 Tech Stack
+<br><br>
+## 💻 Tech Stack
 
 #### Languages, Libraries, Frameworks and Tools
 
@@ -35,7 +35,7 @@ const myDetails = {
 
 </p>
 
-
+<br><br>
 <!-- Socials -->
 ## 🌐 Socials
 
@@ -45,6 +45,7 @@ const myDetails = {
 <a href="https://twitter.com/perniakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="perniakash" height="30" width="40" /></a>
 </p>
 
+<br><br>
 <!-- stats -->
 ## 📊 GitHub Stats
 
@@ -57,7 +58,7 @@ const myDetails = {
 <!-- Contribution Graph -->
 ![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashperni&theme=github-compact)
 
-
+<br><br>
 
 <!-- My Projects -->
 ## 🧩 My Projects
