@@ -14,7 +14,7 @@ const myDetails = {
   university: "University of Maryland - College Park",
   degree: "Master's in Software Engineering (2nd year)",
   languages: "English, Telugu, Hindi",
-  hobbies: "Programming, Volleyball, Cricket"
+  hobbies: " Playing Volleyball, Cricket"
 };
 
 ```
