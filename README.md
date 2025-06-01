@@ -22,6 +22,7 @@ const myDetails = {
 - 🌱 I’m currently learning **Data Engineering with Snowflake**
 - 💬 Ask me about **data**
 - 📫 How to reach me **akashpernivc@gmail.com**
+- **personal portfolio website** :- https://akashperni.github.io/portfolio/
 
 
 
