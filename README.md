@@ -12,14 +12,14 @@ const myDetails = {
   name: "Akash Perni",
   title: "Self-Taught Data scientist & ML Enthusiast",
   university: "University of Maryland - College Park",
-  degree: "Master's in Software Engineering (2nd year)",
+  degree: "Master's in Software Engineering",
   languages: "English, Telugu, Hindi",
-  hobbies: " Playing Volleyball, Cricket"
+  hobbies: " Playing Volleyball, Cricket and esports"
 };
 
 ```
 <br><br>
-- 🌱 I’m currently learning **ETL and Data Pipelines with Shell, Airflow and Kafka**
+- 🌱 I’m currently learning **Data Engineering with Snowflake**
 - 💬 Ask me about **data**
 - 📫 How to reach me **akashpernivc@gmail.com**
 
